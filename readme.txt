@@ -1,17 +1,19 @@
 # gayware
- Gay af software that is not illegal in anyway. For pride month.
+Gay af software that is not illegal in anyway. For pride month.
+
+NEEDED TO BE RAN AS ADMINISTRATOR
 
 # WE ARE NOT RESPONSIBLE FOR ANY DAMAGE DONE TO ANY PC. DO NOT USE FOR MALICIOUS PURPOSES.
 
- //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- //Get current releases at /Releases/:
- //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
- gayware test release - working release, meant for testing on other pc's
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+//Get current releases at /Releases/:
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+gayware test release - working release, meant for testing on other pc's
 
 
-  //~~~~~~~~~~~~~~
-  //Removal Guide:
-  //~~~~~~~~~~~~~~
+//~~~~~~~~~~~~~~
+//Removal Guide:
+//~~~~~~~~~~~~~~
   DELETING STARTUP KEY:
   1. Search "regedit" on the Windows start menu.
   2. Press Enter.
