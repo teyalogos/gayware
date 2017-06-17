@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497689458 source:d:\hobby folder omega\hacking\projects\mattware\mattware\main.cpp
+	<Windows.h>
+	<time.h>
+	<iostream>
+	<vector>
+
