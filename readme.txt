@@ -3,7 +3,7 @@ Gay af software that is not illegal in anyway. For pride month.
 
 NEEDED TO BE RAN AS ADMINISTRATOR
 
-# WE ARE NOT RESPONSIBLE FOR ANY DAMAGE DONE TO ANY PC. DO NOT USE FOR MALICIOUS PURPOSES.
+# I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO ANY PC. DO NOT USE FOR MALICIOUS PURPOSES.
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 //Get current releases at /Releases/:
