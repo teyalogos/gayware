@@ -1,7 +1,8 @@
 # gayware
-Gay af software that is not illegal in anyway. For pride month.
+homosexual malware that is reminiscent of malware from the later 90s to the early 2000s.
+made in pride month.
 
-NEEDED TO BE RAN AS ADMINISTRATOR
+NEEDES TO BE RAN AS ADMINISTRATOR
 
 # I AM NOT RESPONSIBLE FOR ANY DAMAGE DONE TO ANY PC. DO NOT USE FOR MALICIOUS PURPOSES.
 
